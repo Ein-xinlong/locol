@@ -1,7 +1,6 @@
 # locol是一个基于kotlin+mvvm 组件化开发的项目
 ###########环境依赖
 gradle-7.5
-###########目录结构描述
 
 ```mermaid
 	flowchart TD;
@@ -13,7 +12,6 @@ gradle-7.5
 	     common-->router;
 	     common-->status;
 	     home-->...;
-	     
 ```
 
 
