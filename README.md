@@ -24,10 +24,15 @@ gradle-7.5
 
 ```mermaid
 	flowchart TD;
-	     A-->B;
-	     A-->C;
-	     B-->D;
-	     C-->D;
+	     locol-->app;
+	     locol-->common;
+	     locol-->home;
+	     common-->base;
+	     common-->dialog;
+	     common-->router;
+	     common-->status;
+	     home-->...;
+	     
 ```
 
 
