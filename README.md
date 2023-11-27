@@ -28,3 +28,4 @@ gradle-7.5
 - [ ]主页开发
 - [ ]功能页开发
 - [ ]我的页面
+[![](https://jitpack.io/v/Ein-xinlong/locol.svg)](https://jitpack.io/#Ein-xinlong/locol)
